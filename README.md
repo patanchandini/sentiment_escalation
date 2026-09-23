@@ -472,8 +472,8 @@ For interactive testing, use the Swagger UI at `/docs`.
 - Add a `/health` endpoint for monitoring
 - Write pytest tests for every escalation rule
 - Add Docker + docker-compose for deployment
-- Emit Prometheus metrics for escalation rate, latency, sarcasm rate
-
+- Emit Prometheus metrics for escalation rate, latency, 
+  sarcasm rate
 ---
 
 ## License
