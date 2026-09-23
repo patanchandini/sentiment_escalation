@@ -1,0 +1,7 @@
+{
+  "positive":   ["thanks", "thank you", "great", "awesome", "perfect", "love"],
+  "negative":   ["bad", "terrible", "awful", "worst", "broken", "useless"],
+  "frustrated": ["again", "still", "yet again", "keeps happening", "no one"],
+  "urgent":     ["now", "immediately", "asap", "urgent", "right away"],
+  "sarcastic":  ["oh great", "just perfect", "wonderful…", "yeah right", "sure sure"]
+}
