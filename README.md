@@ -1,12 +1,15 @@
 # Multilingual Sentiment Analysis & Escalation System
 
-A FastAPI service that analyzes customer support messages across multiple languages, classifies their sentiment, detects high-risk issues, and routes them to the appropriate queue based on business rules — with a full audit trail for every escalation.
-
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.110%2B-009688)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Tests](https://img.shields.io/badge/tests-17%20passing-brightgreen)
 
----
+A FastAPI service that analyzes customer support messages across multiple languages,
+classifies their sentiment, detects high-risk issues, and routes them to the appropriate
+queue based on business rules — with a full audit trail for every escalation.
+
+**🔗 Live Demo:** [https://sentiment-escalation.onrender.com/docs](https://sentiment-escalation.onrender.com/docs)
 
 ## Table of Contents
 
